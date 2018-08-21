@@ -1,1 +1,1 @@
-All the Noble Idea Solution project will be created in this project.
+All Python project will be created in this project.
